@@ -22,14 +22,18 @@ probably intel fab will manufacture AMD cpus in the future.
 intel is "just a fab."
 MIPS died because it was fabricated with 130nm, same happened with AIM PowerPC G5 970MP CPU with 90nm,
 but with today technology, MIPS can be a game changer...
-POWER architecture is similar to Epyc / Threadripper, but with 4x Threads per core like Xeon Phi.
+POWER architecture leans to CISC side, similar to Epyc / Threadripper but with 4x Threads per core like Xeon Phi.
+
 Most operating systems are Not designed to take advantage of Many cores,
 are designed for Many Interrupts with Very Fast Cores "like intel". 
 
+In the Future,
 Operating systems & Computers will split in 2, 
-Many Interrupts with Fast 10-Core CPUS,
+
+Many Interrupts with Fast Core CPUS,
 vs.
-1000-core/thread CPU with No interrupts.
+
+1000's-core/thread CPU with No interrupts.
 
 P.D. IF it does Not have at least 2x Thuderbolt ports its useless crap. $0usd in the used market.
 
