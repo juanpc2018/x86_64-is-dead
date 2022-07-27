@@ -15,7 +15,8 @@ AMD will be the only developer of x64 CISC technology,
 IBM Power9/10 will be the only CISC x64 competitor.
 MIPS died with Sillicon Graphics, but... this will bring R18000 back from the dead.
 Russia will continue to improve / develop the ELBRUS Cpu technology.
-
+Intel itanium64 is finally dead. LOL.
+but...
 Intel fab will replace TSMC, and will focus in fabricating alternative technologies, ARM, RISC, MIPS.
 probably intel fab will manufacture AMD cpus in the future.
 intel is "just a fab."
