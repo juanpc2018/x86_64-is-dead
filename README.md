@@ -39,8 +39,8 @@ Not trully upgredable, expandable. like having No-PCIe
 
 Alternatives:
 
-from very low $$, to very High $$$
-most decent sollutions are around >$1k usd.
+from very low price under $300usd., to very High Price Over $3000usd.
+decent ARM / Risc sollutions are around >$1k usd.
 
 Basic Toy Level:
 Raspberry Pi 4B
