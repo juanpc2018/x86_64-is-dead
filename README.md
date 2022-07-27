@@ -24,7 +24,7 @@ MIPS died because it was fabricated with 130nm, same happened with AIM PowerPC G
 but with today technology, MIPS can be a game changer...
 POWER architecture is similar to Epyc / Threadripper, but with 4x Threads per core like Xeon Phi.
 Most operating systems are Not designed to take advantage of Many cores,
-are designed for Many Interrupts, with Very Fast Cores "like intel". 
+are designed for Many Interrupts with Very Fast Cores "like intel". 
 
 Operating systems & Computers will split in 2, 
 Many Interrupts with Fast 10-Core CPUS,
