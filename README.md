@@ -35,7 +35,7 @@ vs.
 1000's-core/thread CPU with No interrupts.
 
 P.D. IF it does Not have at least 2x Thuderbolt ports its useless crap. 
-Not trully upgredable, expandable.
+Not trully upgredable, expandable. like having No-PCIe
 
 Alternatives:
 Basic Toy Level:
