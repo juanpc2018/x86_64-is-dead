@@ -52,6 +52,7 @@ removing the VL800 USB IC, and soldering a PCB Bridge or wires.
 https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-way/
 
 -----
+
 Crazy Level SBC: *Because it includes a Volta GPU.
 NVIDIA Jetson AGX Xavier
 https://www.amazon.com/dp/B083ZL3X5B
@@ -61,6 +62,9 @@ https://forums.developer.nvidia.com/t/memory-system-questions/84136
 
 New Orin with Ampere GPUs, A78 CPUs
 https://developer.nvidia.com/embedded/jetson-orin
+
+Jetson Nano seems a decent entry level SBC with Maxwell GPU.
+at $550usd.
 
 -----
 
