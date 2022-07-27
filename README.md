@@ -122,7 +122,7 @@ https://www.gigabyte.com/Industry-Solutions/ampere-altra-server-solution
 
 --------
 
-Serious Developer Level:
+Serious Developer:
 
 https://www.raptorcs.com/TALOSII/
 
