@@ -7,7 +7,7 @@ AMD has 64-Bit,
 but with 64-Bit Only OS, 64-Bit Apps,
 AMD can remove x86 code from the CPUs, and Intel has to pay AMD for using 64-Bit.
 
-Removing useless code from the CPUs will make them more power efficient, easy & faster to manufacture = cheaper.
+Removing useless code from the CPUs will make CPU more power efficient, smaller, easy & faster to manufacture = more CPUs per waffer = cheaper.
 maybe some will include a switch, that can be activated with a paid license in the UEFI Bios to power the x86 core.
 
 That will create a very agresive shift towards ARM and RISC-V, some to POWER9 & 10
