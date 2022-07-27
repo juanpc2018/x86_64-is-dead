@@ -63,6 +63,8 @@ https://forums.developer.nvidia.com/t/memory-system-questions/84136
 New Orin with Ampere GPUs, A78 CPUs
 https://developer.nvidia.com/embedded/jetson-orin
 
+In Spanish Orin = Pee. LOL™
+
 Jetson Nano seems a decent entry level SBC with Maxwell GPU.
 at $550usd.
 
