@@ -89,8 +89,10 @@ https://shop.solid-run.com/product/SRLX216S00D00GE064H09CH/
 --------
 
 Server Level:
+Ampere Altra CPUs
 
 https://www.gigabyte.com/Enterprise/ARM-Server
+https://www.gigabyte.com/Industry-Solutions/ampere-altra-server-solution
 
 --------
 
