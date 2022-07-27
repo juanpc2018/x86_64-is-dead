@@ -119,9 +119,10 @@ https://www.raptorcs.com/TALOSII/
 
 ---------
 
-Closer Environment, 
+Closed Environment, 
 Non-Upgredable:
-
+M1
+cheaper M2
 www.apple.com
 
 ------
