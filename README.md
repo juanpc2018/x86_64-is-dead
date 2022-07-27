@@ -46,7 +46,7 @@ https://rvspace.org/
 https://www.amazon.com/VisionFive-Dual-core-Processor-Intelligent-Application/dp/B09NKTFRZD
 
 
-Rasberry Pi4B can be "upgraded with PCIe Riser card,
+Rasberry Pi4B can be "upgraded" with PCIe Riser card,
 removing the VL800 USB IC, and soldering a PCB Bridge or wires.
 
 https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-way/
