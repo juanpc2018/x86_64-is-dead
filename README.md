@@ -59,6 +59,9 @@ https://www.newegg.com/p/pl?d=arm+motherboard
 https://developer.nvidia.com/embedded/jetson-modules
 https://forums.developer.nvidia.com/t/memory-system-questions/84136
 
+New Orin with Ampere GPUs, A78 CPUs
+https://developer.nvidia.com/embedded/jetson-orin
+
 -----
 
 Developer / Desktop Level:
