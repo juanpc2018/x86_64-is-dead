@@ -87,6 +87,8 @@ https://www.sifive.com/boards/hifive-unmatched
 
 16-Core A7* CPU 2Ghz.
 Upgredable Ram.
+SFP+
+PCIe
 
 https://www.solid-run.com/arm-servers-networking-platforms/honeycomb-lx2/#overview
 
