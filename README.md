@@ -60,7 +60,7 @@ https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-wa
 
 -----
 
-Crazy Level SBC: *Because it includes a Volta GPU.
+Crazy Level SBC: *Because includes a Volta GPU.
 NVIDIA Jetson AGX Xavier
 https://www.amazon.com/dp/B083ZL3X5B
 https://www.newegg.com/p/pl?d=arm+motherboard
