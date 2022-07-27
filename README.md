@@ -102,3 +102,10 @@ https://www.raptorcs.com/TALOSII/
 
 ---------
 
+Closer Environment, 
+Non-Upgredable:
+
+www.apple.com
+
+------
+
