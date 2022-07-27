@@ -39,7 +39,7 @@ Not trully upgredable, expandable. like having No-PCIe
 
 Alternatives:
 
-from very low $, to very High $$$
+from very low $$, to very High $$$
 most decent sollutions are around >$1k usd.
 
 Basic Toy Level:
