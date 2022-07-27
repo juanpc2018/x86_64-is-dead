@@ -13,12 +13,12 @@ maybe some will include a switch, that can be activated with a paid license in t
 That will create a very agresive shift towards ARM and RISC-V, some to POWER9 & 10
 AMD will be the only developer of x64 CISC technology,
 IBM Power9/10 will be the only CISC x64 competitor.
-MIPS died with Sillicon Graphics, but... that can bring the R18000 back from the dead.
+MIPS died with Sillicon Graphics, but... this will bring R18000 back from the dead.
 Russia will continue to improve / develop the ELBRUS Cpu technology.
 
 Intel fab will replace TSMC, and will focus in fabricating alternative technologies, ARM, RISC, MIPS.
 probably intel fab will manufacture AMD cpus in the future.
-intel is just a fab.
+intel is "just a fab."
 MIPS died because it was fabricated with 130nm, same happened with AIM PowerPC G5 970MP CPU with 90nm,
 but with today technology, MIPS can be a game changer...
 POWER architecture is similar to Epyc / Threadripper, but with 4x Threads per core like Xeon Phi.
