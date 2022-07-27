@@ -52,6 +52,11 @@ removing the VL800 USB IC, and soldering a PCB Bridge or wires.
 https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-way/
 
 -----
+Crazy Level SBC:
+NVIDIA Jetson AGX Xavier
+https://www.amazon.com/dp/B083ZL3X5B
+
+-----
 
 Developer / Desktop Level:
 
