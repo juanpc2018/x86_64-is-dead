@@ -57,6 +57,7 @@ NVIDIA Jetson AGX Xavier
 https://www.amazon.com/dp/B083ZL3X5B
 https://www.newegg.com/p/pl?d=arm+motherboard
 https://developer.nvidia.com/embedded/jetson-modules
+https://forums.developer.nvidia.com/t/memory-system-questions/84136
 
 -----
 
