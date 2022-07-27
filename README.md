@@ -31,8 +31,7 @@ In the Future,
 Operating systems & Computers will split in 2, 
 
 Many Interrupts with Fast Core CPUS,
-vs.
-
+vs. 
 1000's-core/thread CPU with No interrupts.
 
 P.D. IF it does Not have at least 2x Thuderbolt ports its useless crap. $0usd in the used market.
