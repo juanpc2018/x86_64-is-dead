@@ -42,6 +42,8 @@ Alternatives:
 from very low price under $300usd., to very High Price Over $3000usd.
 decent ARM / Risc sollutions are around >$1k usd.
 
+https://en.wikipedia.org/wiki/Comparison_of_ARMv8-A_processors
+
 Basic "Toy" Level:
 Raspberry Pi 4B
 4-core CPU A72 1.5Ghz but can be overclocked.
