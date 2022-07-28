@@ -42,10 +42,11 @@ Alternatives:
 from very low price under $300usd., to very High Price Over $3000usd.
 decent ARM / Risc sollutions are around >$1k usd.
 
-Basic Toy Level:
+Basic "Toy" Level:
 Raspberry Pi 4B
-4-core CPU.
-8GB RAM Non-upgredable.
+4-core CPU A72 1.5Ghz but can be overclocked.
+8GB RAM Max Non-upgredable.
+https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/
 
 RISC-V
 2-core CPU.
@@ -103,7 +104,7 @@ https://www.sifive.com/boards/hifive-unmatched
 
 ---------
 
-16-Core A7* CPU 2Ghz.
+16-Core A72 CPU 2Ghz.
 Upgredable Ram.
 SFP+
 PCIe
