@@ -92,7 +92,8 @@ at $550usd.
 
 Developer / Desktop Level:
 
-24-core A5* 1Ghz CPU
+SC2A11 
+24-core A53 1Ghz CPU
 DDR4 user upgredable.
 1GbE RJ45
 PCIe
