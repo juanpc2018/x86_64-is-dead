@@ -46,6 +46,8 @@ https://en.wikipedia.org/wiki/Comparison_of_ARMv8-A_processors
 
 https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Cortex-A%20R%20M%20datasheets/Arm%20Cortex-A%20Comparison%20Table_v4.pdf
 
+https://www.forlinx.net/industrial-news/arm-cortex-a-series-processor-performance-344.html
+
 Basic "Toy" Level:
 Raspberry Pi 4B
 4-core CPU A72 1.5Ghz but can be overclocked.
