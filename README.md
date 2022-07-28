@@ -30,7 +30,7 @@ are designed for Many Interrupts with Very Fast Cores "like intel".
 In the Future,
 Operating systems & Computers will split in 2, 
 
-Many Interrupts with Fast Core CPUS,
+Many Interrupts with Fast Core CPUs,
 vs. 
 1000's-core/thread CPU with No interrupts.
 
